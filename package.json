@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@entropy-engine/entropy-game-engine": "^1.0.9"
+    "@entropy-engine/entropy-game-engine": "^1.0.10"
   },
   "devDependencies": {
     "@types/html-webpack-plugin": "^3.2.2",
